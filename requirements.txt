@@ -1,0 +1,2 @@
+* Python **3.9+** (recomendado via Anaconda)
+* Sistema operacional: Windows, macOS ou Linux
